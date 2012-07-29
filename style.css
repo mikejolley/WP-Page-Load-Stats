@@ -1,0 +1,53 @@
+#wp_pls {
+	border: 1px solid #D2DBF4;
+	color: #0D2054;
+	background: #F4F8FD;
+	padding: 1em 1em 1em 1.5em;
+	position:fixed;
+	bottom:0px;
+	right:0px;
+	font-family: monospace;
+	font-size: 13px;
+}
+#wp_pls .actions {
+	position: absolute;
+	left: 0;
+	top: 0;
+	margin: -10px 0 0 -8px;
+}
+#wp_pls a {
+	background: #F4F8FD;
+	border: 1px solid #D2DBF4;
+	border-bottom-width: 2px;
+	color: #0D2054;
+	padding: 5px 0;
+	line-height: 10px;
+	height: 10px;
+	width: 20px;
+	font-size: 10px;
+	font-weight: bold;
+	text-align: center;
+	text-decoration: none;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	float: left;
+	margin: 0 1px 0 0;
+}
+#wp_pls .reset {
+	background: #F4F8FD url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAcElEQVQYV2NkgAIu+SBJZkamZzA+iP77/58USOzzgzWMjCABXoWQ/zCJbw/XPQexkTWCFcIEQBxk02CaQWJghSABkBUwk5AVI7PBCtFNQ1cMUkO8QlxWoYcGiq9hDkf3FMgPxAcPLBxhgYse4LDQAABM5VEfCPJ/JQAAAABJRU5ErkJggg==) no-repeat 5px 5px;
+	padding: 20px 0 0 0;
+	height: 0;
+	overflow: hidden;
+}
+#wp_pls ul {
+	list-style: none outside;
+	margin: 0;
+	padding: 0;
+}
+#wp_pls ul li {
+	list-style: none outside;
+	margin: 0;
+	padding: 0;
+	line-height: 1.4em;
+}
