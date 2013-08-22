@@ -115,7 +115,7 @@ class WP_Page_Load_Stats {
 				<li><?php printf( __( 'Peak memory usage %s MB.', 'wp_pls' ), $memory_peak_usage ); ?></li>
 			</ul>
 			<div class="actions">
-				<a onclick="wp_pls_hide()"" href="javascript:void(0);">&times;</a>
+				<a onclick="wp_pls_hide()" href="javascript:void(0);">&times;</a>
 				<a class="reset" href="<?php echo add_query_arg( 'reset_wp_pls_stats', 1 ); ?>">-</a>
 			</div>
 		</div>
