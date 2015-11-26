@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: WP Page Load Stats
-Plugin URI: http://mikejolley.com/projects/wp-page-load-stats/
+Plugin URI: https://github.com/mikejolley/WP-Page-Load-Stats
 Description: Display memory, page load time, average load time and query count in the footer. Requires PHP 5.2.0+
 Version: 1.0.2
 Requires at least: 3.0
